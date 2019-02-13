@@ -4,7 +4,8 @@
 [![codecov](https://codecov.io/gh/brianegan/flutter_architecture_samples/branch/master/graph/badge.svg)](https://codecov.io/gh/brianegan/flutter_architecture_samples)
 
 <p align="right">
-  <img src="assets/todo-list.png" alt="List of Todos Screen">
+  <img align="right" src="assets/todo-list.png" alt="List of Todos Screen">
+  <img align="right" src="assets/todo-list.png" alt="List of Todos Screen">
 </p>
 
 [TodoMVC](http://todomvc.com) for Flutter!
