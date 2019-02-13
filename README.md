@@ -3,10 +3,7 @@
 [![Build Status](https://travis-ci.org/brianegan/flutter_architecture_samples.svg?branch=master)](https://travis-ci.org/brianegan/flutter_architecture_samples)
 [![codecov](https://codecov.io/gh/brianegan/flutter_architecture_samples/branch/master/graph/badge.svg)](https://codecov.io/gh/brianegan/flutter_architecture_samples)
 
-<p align="right">
-  <img align="right" src="assets/todo-list.png" alt="List of Todos Screen">
-  <img align="right" src="assets/todo-list.png" alt="List of Todos Screen">
-</p>
+<img align="right" src="assets/todo-list.png" alt="List of Todos Screen">
 
 [TodoMVC](http://todomvc.com) for Flutter!
 
